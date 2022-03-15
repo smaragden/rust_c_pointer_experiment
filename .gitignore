@@ -1,0 +1,4 @@
+.vscode
+gp_c/*.so
+gp_c.bin
+gp_rs.bin
