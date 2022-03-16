@@ -1,0 +1,13 @@
+[package]
+name = "gp_safe"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+gp_sys = {path="../gp_sys"}
+
+[lib]
+name = "gp_safe"
+path = "gp_safe.rs"

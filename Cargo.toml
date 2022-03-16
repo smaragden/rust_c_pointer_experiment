@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "gp_rs/gp_sys",
+    "gp_rs/gp_safe",
+    "gp_rs/gp",
+]

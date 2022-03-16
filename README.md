@@ -11,4 +11,5 @@ make
 ### `./gp_c/`
 Simple C library source
 ### `./gp_rs/`
-Rust source and binndings to the C library to match `./gp_c/main.c`
+Rust crates that interfaces with `gp_c`.
+Examples shows both a "safe" interface and direct usage of a "sys" interface (raw bindings).

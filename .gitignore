@@ -1,4 +1,6 @@
 .vscode
 gp_c/*.so
-gp_c.bin
-gp_rs.bin
+*.bin
+target
+#we have no external dependencies
+Cargo.lock
